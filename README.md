@@ -1,4 +1,4 @@
-# This is a simple weather website that provides current weather information based on user input. It is built using only HTML, CSS, and JavaScript.
+# This is a simple weather website that provides current weather information based on user input. It is built using HTML, CSS, and JavaScript.
 
 ## Features
 
